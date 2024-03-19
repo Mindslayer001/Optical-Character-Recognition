@@ -1,0 +1,4 @@
+Pytessaract
+spacy
+opencv-python
+jupyter
