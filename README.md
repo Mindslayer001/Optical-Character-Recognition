@@ -80,13 +80,7 @@ Install:
 ### Installation
 
 ```
-!pip install pytesseract
-!sudo apt install tesseract-ocr
-pytesseract.pytesseract.tesseract_cmd = (
-    r'/usr/bin/tesseract'
-)
-!pip install spacy
-!python -m spacy download en_core_web_sm
+pip install -r requirements.txt
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
